@@ -1,0 +1,8 @@
+{
+  "lr": 0.000299904281209381,
+  "batch_size": 16,
+  "base_channels": 16,
+  "dropout": 0.10035213072674756,
+  "optimizer": "Adam",
+  "weight_decay": 1.0001930877348182e-05
+}

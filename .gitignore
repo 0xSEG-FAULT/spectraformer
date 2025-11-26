@@ -1,0 +1,17 @@
+# Virtual environment
+env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.csv
+*.data
+
+# Logs
+*.log

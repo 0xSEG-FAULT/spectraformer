@@ -1,0 +1,17 @@
+# Core numerical / scientific stack
+numpy>=1.22
+scipy>=1.8
+pandas>=1.4
+scikit-learn>=1.1
+
+# Deep learning
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+
+# Optional but useful
+matplotlib>=3.5
+tqdm>=4.65
+
+# Add this line to requirements.txt
+optuna>=3.0
